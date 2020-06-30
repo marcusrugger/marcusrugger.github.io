@@ -1,0 +1,8 @@
+title: Marcus Rugger on GitHub
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
